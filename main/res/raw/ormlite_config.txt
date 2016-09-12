@@ -1,0 +1,20 @@
+#
+# generated on 2016/09/11 08:31:46
+#
+# --table-start--
+dataClass=com.androidnames.ormexamples.Car
+tableName=cars
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=name
+# --field-end--
+# --field-start--
+fieldName=brand
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
